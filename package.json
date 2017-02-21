@@ -1,0 +1,25 @@
+{
+  "name": "art-portfolio",
+  "version": "1.0.0",
+  "description": "art-portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dergacheva/art-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dergacheva/art-portfolio/issues"
+  },
+  "homepage": "https://github.com/dergacheva/art-portfolio#readme",
+  "dependencies": {
+    "babel-core": "6.23.1",
+    "babel-preset-latest": "6.22.0",
+    "babel-preset-react": "6.23.0"
+  }
+}
